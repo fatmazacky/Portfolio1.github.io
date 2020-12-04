@@ -1,0 +1,376 @@
+body{
+	background-color: #decfbf;
+}
+#banner{
+    padding-top: 20px;
+}
+
+.con{
+    border:5px solid red;
+    margin: 50px auto;
+    overflow: hidden;
+}
+ul li{
+text-align: center;
+background-color: #000;
+margin-left: 40px;
+
+}
+ol, ul {
+    margin-bottom: 10px;
+    padding-left: 30px;
+    text-align: center;
+    font-size: 20px;
+}
+h1{
+	text-align: center;
+	padding-top: 20px;
+}
+h1 span{
+
+	border-bottom: dotted;
+	border-bottom-color: #c16b13;
+	border-width: 3px;
+	color: #c16b13;
+	font-family: Poor Richard;
+}
+
+p{
+	text-align: center;
+	padding-top: 10px;
+	line-height: 27px;
+	font-size: 20px;
+	font-family: Poor Richard;
+	font-weight: normal;
+    color: #3e3b38;
+}
+#new{
+	text-align: center;
+	font-size: 25px;
+	padding-top: 28px;
+	font-family: candara;
+	padding-right: 28px;
+	padding-left: 28px;
+
+}
+
+#new{
+	padding-bottom: 8px;
+    font-size: 30px
+}
+#new span{
+	text-align: center;
+	border-bottom: dotted;
+	border-bottom-color: #c16b13;
+	border-width: 3px;
+	color: #c16b13;
+	font-family: Poor Richard;
+}
+#footer{
+	text-align: center;
+	font-family: candara;
+	font-weight: bold;
+	background-color: black;
+	color: #c16b13;
+    padding-top: 8px;
+
+}
+
+
+
+#footer img{
+    margin-right: 4px;
+
+}
+#footer a img:hover{
+color: white;
+}
+h2{
+	font-size: 22px;
+	font-family: Poor Richard;
+
+}
+
+article, aside, details, figcaption, figure, footer, header, hgroup, main, nav, section, summary {
+    display: block;
+}
+*, ::after, ::before {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+.container > section {
+    text-align: center;
+}
+body {
+    font-family: Poor Richard;
+}
+html {
+    font-family: Poor Richard;
+    -webkit-text-size-adjust: 100%;
+}
+#First text{
+	font-size: 20px;
+	font-family: Poor Richard
+}
+
+style.css:111
+*, ::after, ::before {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+form {
+    display: block;
+    margin-top: 0px;
+    text-align: start;
+}
+body {
+    font-family: Poor Richard;
+}
+Inherited from html
+style.css:122
+html {
+    font-family: Poor Richard;
+    -webkit-text-size-adjust: 100%;
+}
+Pseudo ::before element
+style.css:111
+*, ::after, ::before {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+Pseudo ::after element
+style.css:111
+*, ::after, ::before {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+style.css:111
+*, ::after, ::before {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+input {
+    background-color: white;
+    cursor: auto;
+    padding: 1px;
+    border-width: 2px;
+    border-style: inset;
+    border-color: initial;
+    border-image: initial;
+}
+input, textarea, select, button {
+    text-rendering: auto;
+    color: #c16b13;
+    letter-spacing: normal;
+    word-spacing: normal;
+    text-transform: none;
+    text-indent: 0px;
+    text-shadow: none;
+    display: inline-block;
+    text-align: start;
+    margin: 0em;
+    font: 18px Poor Richard;
+}
+.navbar-inverse {
+    
+    background-color: #decfbf;
+
+}
+#gallery{
+    padding-top: 10px
+    padding: 10px;
+    font-size: 30px
+}
+#imgs {
+    padding-top: 10px;
+    
+}
+#Latest span{
+    text-align: center;
+    border-bottom: dashed 1px;
+    border-bottom-color: #000;
+    color: #000;
+    font-size: 25px;
+}
+
+#Latest{
+
+    font-family: Poor Richard;
+    text-align: center;
+    padding-bottom: 5px;
+}
+#Collection span{
+    text-align: center;
+    border-bottom: dashed 1px;
+    border-bottom-color: #000;
+    color: #000;
+    font-size: 25px;
+}
+.img-responsive{
+    display: block;
+    height: auto;
+    max-width: 100%;
+}
+
+#Collection{
+
+    font-family: Poor Richard;
+    text-align: center;
+    padding-top: 5px;
+}
+body {
+    font-family: Poor Richard;
+    font-size: 16px;
+    line-height: 1.4285;
+    color: #000;
+    background-color: #fff;
+}
+#inquiries{
+    color: #000;
+    font-size: 18px;
+}
+#First br{
+    color: #000;
+}
+#us span{
+    
+    border-bottom: dashed 1px;
+    border-bottom-color: #c16b13;
+    color: #c16b13;
+}
+#us{
+    font-size: 25px;
+	text-align: center;
+	padding-top: 7px;
+    color: #c16b13;
+
+}
+#about{
+	text-align: center;
+	background-color: #decfbf;
+	font-size: 20px; 
+}
+.navbar, .navbar-inverse {
+    border-radius: 0;
+    border: none;
+   
+    min-height: 50px;
+    text-align: center;
+}
+
+.nav li {
+    display: inline;
+    color: white;
+    text-align: center;
+}
+#nav{
+    margin: 20px auto 0px;
+    width: 70%
+}
+
+
+
+.navbar-inverse .navbar-nav > li > a {
+    color: #cc6600;
+    font-size: 24px;
+    font-weight: 300;
+    text-align: center;
+   
+}
+
+.nav>li>a {
+    position: relative;
+    display: block;
+    padding: 10px 25px;
+}
+
+.navbar-inverse .navbar-nav li a:hover {
+    background-color: #fff;
+    color: #cc6600;
+    transition: 0.7s all linear;
+    height: 100%;
+    text-align: center;
+}
+input {
+    cursor: auto;
+    padding: 1px;
+    border-width: 2px;
+    border-style: inset;
+    border-color: initial;
+    border-image: initial;
+}
+form{
+    padding-top: 50px
+}
+#text{
+    font-size: 19px;
+    text-align: center;
+
+}
+
+/* carousel */
+.media-carousel 
+{
+  margin-bottom: 0;
+  padding: 0 40px 30px 40px;
+  margin-top: 30px;
+}
+/* Previous button  */
+.media-carousel .carousel-control.left 
+{
+  left: -12px;
+  background-image: none;
+  background: none repeat scroll 0 0 #222222;
+  border: 4px solid #FFFFFF;
+  border-radius: 23px 23px 23px 23px;
+  height: 40px;
+  width : 40px;
+  margin-top: 140px
+}
+/* Next button  */
+.media-carousel .carousel-control.right 
+{
+  right: -12px !;
+  background-image: none;
+  background: none repeat scroll 0 0 #222222;
+  border: 4px solid #FFFFFF;
+  border-radius: 23px 23px 23px 23px;
+  height: 40px;
+  width : 40px;
+  margin-top: 140px;
+}
+/* Changes the position of the indicators */
+.media-carousel .carousel-indicators 
+{
+  right: 50%;
+  top: auto;
+  bottom: 0px;
+  margin-right: -19px;
+}
+/* Changes the colour of the indicators */
+.media-carousel .carousel-indicators li 
+{
+  background: #c0c0c0;
+}
+.media-carousel .carousel-indicators .active 
+{
+  background: #333333;
+}
+
+/* End carousel */
+element.style {
+}
+.col-md-8 {
+    width: 100%;
+}
+
+
+
+
